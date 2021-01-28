@@ -28,7 +28,7 @@ int level[] = {1,2,3,4,5,6,7,8,9,10};
 	time_t curr_time;
 	curr_time = time(NULL);
 	char *tm = ctime(&curr_time);
-cout <<"Planetary Devastation War v2.1\n";
+cout <<"Decoding Binaries v2.1\n";
 cout<<"GST: "<<tm;
 cout<<"Player Name: ";cin >> human;
 cout <<"Partner Name: ";cin>>sidekick;
