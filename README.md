@@ -30,10 +30,10 @@ Find More About My Projects Below<br>
 # 👑 Headers
 
 This cpp program uses the following header files
-- [x]  <iostream>
-- [x]  <stdlib.h>
-- [x]  <cstdlib>
-- [x]  <ctime>
+- [x]  iostream
+- [x]  stdlib.h
+- [x]  cstdlib
+- [x]  ctime
 
 # 🕵️‍♂️ Purpose
 * Entertainment
