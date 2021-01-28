@@ -1,5 +1,6 @@
-# Binary-Decoder
-## Coded By FonderElite
+# 👾 Binary-Decoder
+ Coded By FonderElite
+ 
 ## Simple Binary [CLI] Game I Made to Enhance My C++ Skill
 <pre style="color:cyan">
  _     _                        
@@ -22,12 +23,12 @@ Find More About My Projects Below<br>
 <pre>   Github Page -> <a href="https://github.com/FonderElite">Click Here</a> <- </pre><br><br>
 
 
-# Work flow
+# 👨‍🔧 Work flow
 => Compile ```gcc game.cpp -o game```
 => Execute ```./game```
 
 
-# Headers
+# 👑 Headers
 
 This cpp program uses the following header files
 * <iostream>
@@ -35,23 +36,23 @@ This cpp program uses the following header files
 * <cstdlib>
 * <ctime>
 
-# Purpose
+# 🕵️‍♂️ Purpose
 * Entertainment
 * Practice My C++ Skill
 * Open-Source
 
-# Features:
+# 🧙🏽‍♂️ Features:
 - [x] Level 1 Only
 - [x] Works even without internet connection.
 - [x] Works efficiently
 - [x] Supported on Windows && Linux
 
-# Disclaimer:
+# ❗Disclaimer:
 What ever you do with this is out of my reach.
 
 
-# Update:
+# 🙌🏽 Update:
 * No New Updates at the moment.
-# Socials:
+# 🫂Socials:
 * Github: https://github.com/FonderElite
 * Twitter: https://twitter.com/elitefonder
