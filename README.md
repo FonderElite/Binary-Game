@@ -1,7 +1,6 @@
 # 👾 Binary-Decoder
- Coded By FonderElite
- 
-## Simple Binary [CLI] Game I Made to Enhance My C++ Skill
+* Coded By FonderElite
+ Simple Binary [CLI] Game I Made to Enhance My C++ Skill
 <pre style="color:cyan">
  _     _                        
 | |   (_)                       
@@ -53,6 +52,6 @@ What ever you do with this is out of my reach.
 
 # 🙌🏽 Update:
 * No New Updates at the moment.
-# 🫂Socials:
+# 🫂 Socials:
 * Github: https://github.com/FonderElite
 * Twitter: https://twitter.com/elitefonder
